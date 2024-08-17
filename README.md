@@ -1,4 +1,4 @@
-# Gradient Boosting with CatBoot for Classification
+# Gradient Boosting with CatBoost for Classification
 
 <p align="center">
   <img src='pics/cat.jpg'  width='530'/>
